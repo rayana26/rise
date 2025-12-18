@@ -1,1 +1,13 @@
-@import "./reset.css";
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+ 
+}
+.container{
+    margin: 0 auto;
+    width: 94%;
+}
+a{
+       text-decoration: none;
+}
